@@ -1,0 +1,45 @@
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+a{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 25px;
+    border: 2px solid palevioletred;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: red;
+    background-color: salmon;
+    flex-direction: column;
+    margin: auto;
+
+    
+}
+main{
+    color: salmon;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    font-size: 25px; 
+    white-space: pre-line;
+}
+ 
+html{
+background-color: rgb(251, 231, 255);
+}
+
+
+div {
+color: brown;
+
+}
